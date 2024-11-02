@@ -1,7 +1,13 @@
 # Backend
 
 ### Run on Windows
-go to `backend` folder and run `pocketbase.exe`
+download [pocketbase](https://github.com/pocketbase/pocketbase/releases/download/v0.22.22/pocketbase_0.22.22_windows_amd64.zip) for windows
+
+go to `backend` folder and delete entire files/folder!
+
+copy and extract `pocketbase_0.22.22_windows_amd64.zip` to `backend` folder! 
+
+run `pocketbase.exe`
 
 ### Admin UI, create table, etc.
 go to [http://localhost:8090/_](http://localhost:8090/_)
